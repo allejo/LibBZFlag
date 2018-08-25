@@ -35,6 +35,10 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Zlib.Shared", "Compression\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zlib DLL", "Compression\Zlib\Zlib DLL.csproj", "{9816BA86-9250-4C00-A912-25F07F8677D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BZFlag.Replay", "BZFlag.Replay\BZFlag.Replay.csproj", "{C3D63407-E4EB-4883-A924-DE0BDF62D31E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BZFlag.CLI", "BZFlag.CLI\BZFlag.CLI.csproj", "{A1851738-8AF1-4FC3-95E3-4BD9F7E40ADF}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Compression\Zlib.Shared\Zlib.Shared.projitems*{9816ba86-9250-4c00-a912-25f07f8677d1}*SharedItemsImports = 4
@@ -97,6 +101,14 @@ Global
 		{9816BA86-9250-4C00-A912-25F07F8677D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9816BA86-9250-4C00-A912-25F07F8677D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9816BA86-9250-4C00-A912-25F07F8677D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D63407-E4EB-4883-A924-DE0BDF62D31E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D63407-E4EB-4883-A924-DE0BDF62D31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D63407-E4EB-4883-A924-DE0BDF62D31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D63407-E4EB-4883-A924-DE0BDF62D31E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1851738-8AF1-4FC3-95E3-4BD9F7E40ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1851738-8AF1-4FC3-95E3-4BD9F7E40ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1851738-8AF1-4FC3-95E3-4BD9F7E40ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1851738-8AF1-4FC3-95E3-4BD9F7E40ADF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

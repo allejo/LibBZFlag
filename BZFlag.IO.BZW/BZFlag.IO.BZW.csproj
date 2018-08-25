@@ -49,6 +49,7 @@
     <Compile Include="Parsers\BasicObject.cs" />
     <Compile Include="Parsers\Box.cs" />
     <Compile Include="Parsers\Link.cs" />
+    <Compile Include="Parsers\Material.cs" />
     <Compile Include="Parsers\Mesh.cs" />
     <Compile Include="Parsers\Options.cs" />
     <Compile Include="Parsers\PhaseableObject.cs" />
